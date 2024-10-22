@@ -2,12 +2,13 @@
 ![Screenshot_2](https://github.com/user-attachments/assets/963600fd-09ed-490c-961a-f2222eb94ff6)
 
 # Node operator in the following projects
-- Celestia
-- Connext
-- Kyve
-- Iron Fish
-- Sei 
 - Sui
+- Radicle
+- Quasar
+- Allora
+- Avail
+- MilkyWay
+- Dill
 - Humanode
 - Subspace
 - Subquery
